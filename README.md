@@ -1,5 +1,7 @@
 # WindowsTelemetry
-Consolidated blocklist of Windows Telemetry
+Consolidated Windows Telemetry
+
+Do not use this aggregated list because the repo will be taken down once the checklist is completed. Subscribe to each list individually if you wish.
 
 * ✅ https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 * ✅ https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt
@@ -9,6 +11,9 @@ Consolidated blocklist of Windows Telemetry
 * ✅ https://raw.githubusercontent.com/pschneider1968/pihole-bl-msft-telemetry-bsi/master/msft_telemetry_bsi.txt
 * ✅ https://raw.githubusercontent.com/LZL0/PiHole-Windows10-Telemetry-Spy-Hosts/master/hosts
 * ✅ https://raw.githubusercontent.com/wlqY8gkVb9w1Ck5MVD4lBre9nWJez8/W10TelemetryBlocklist/master/W10TelemetryBlocklist
+* ✅ https://raw.githubusercontent.com/mlibre2/HOSTS-microsoft/main/hosts
+
+* ⬜️ Purge current list of official Microsoft Windows Server Update Services domains
 * ⬜️ https://raw.githubusercontent.com/schrebra/Windows.10.DNS.Block.List/main/hosts.txt - pending. Some services are being used by the intended audience of the blocklist.
 
 Already covered by the above:
