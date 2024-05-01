@@ -158,6 +158,7 @@
 134.170.30.202
 137.116.81.24
 157.56.106.189
+184-86-53-99.deploy.static.akamaitechnologies.com
 1oavsblobprodcus350.blob.core.windows.net
 2.22.61.43
 2.22.61.66
@@ -194,6 +195,7 @@ a1095.g2.akamai.net
 a1621.g.akamai.net
 a1856.g2.akamai.net
 a1961.g.akamai.net
+a248.e.akamai.net
 a978.i6g1.akamai.net
 ac3.msn.com
 activation-v2.sls.microsoft.com
@@ -1267,6 +1269,7 @@ statsfe1.ws.microsoft.com
 statsfe1.ws.microsoft.com.nsatc.net
 statsfe2.update.microsoft.com
 statsfe2.update.microsoft.com.akadns.net
+statsfe2.update.microsoft.com.akadns.net,
 statsfe2.ws.microsoft.com
 statsfe2.ws.microsoft.com.nsatc.net
 stor3.msedge.net
@@ -1371,6 +1374,7 @@ win10-trt.msedge.net
 win10.ipv6.microsoft.com
 win1710.ipv6.microsoft.com
 win8.ipv6.microsoft.com
+windows.microsoft.com
 windows.msn.com
 windows.policies.live.net
 windowsupdate.com
